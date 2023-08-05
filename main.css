@@ -53,13 +53,13 @@ input{
     border: none;
     outline: none;
     background: transparent;
-    padding: 10px;
     font-size: 13px;
+    max-width: 50%;
 }
 button{
     border: none;
     outline: none;
-    padding: 16px 50px;
+    padding: 11px 20px;
     background: #ff5945;
     color: #fff;
     font-size: 16px;
@@ -69,6 +69,7 @@ button{
     -moz-border-radius: 40px;
     -ms-border-radius: 40px;
     -o-border-radius: 40px;
+    max-width: 50%;
 }
 ul li{
     list-style: none;
